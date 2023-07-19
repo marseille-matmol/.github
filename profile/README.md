@@ -1,6 +1,7 @@
 ## MARSEILLE MATERIALS MODELLING (Swinburne Group)
 
-<p><b>[LML-RETRAIN](https://github.com/marseille-matmol/LML-retrain): Hybrid <i>ab initio</i>-machine learning simulations of dislocations</b></p>
+<p><b>LML-RETRAIN: Hybrid <i>ab initio</i>-machine learning simulations of dislocations</b></p>
+https://github.com/marseille-matmol/LML-retrain
 <p>
   <code>LML_retrain</code> is an advanced coupling scheme to embed small DFT simulations in large-scale MD.
       To enable this embedding, we retrain (make small parameter adjustments to) <i>linear</i> machine learning potentials,
