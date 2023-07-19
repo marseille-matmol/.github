@@ -1,7 +1,13 @@
 ## MARSEILLE MATERIALS MODELLING (Swinburne Group)
 
 <p><b>LML-RETRAIN: Hybrid <i>ab initio</i>-machine learning simulations of dislocations</b></p>
-https://github.com/marseille-matmol/LML-retrain
+
+Code repository (https://github.com/marseille-matmol/LML-retrain)
+
+Work of Petr Grigorev (https://pgrigorev.github.io)
+
+Funded by ANR JCJC MeMoPas (https://anr.fr/Project-ANR-19-CE46-0006)
+
 <p>
   <code>LML_retrain</code> is an advanced coupling scheme to embed small DFT simulations in large-scale MD.
       To enable this embedding, we retrain (make small parameter adjustments to) <i>linear</i> machine learning potentials,
@@ -9,6 +15,4 @@ https://github.com/marseille-matmol/LML-retrain
       The method is described in detail in a recent publication:
 <i>Calculation of dislocation binding to helium-vacancy defects in tungsten using hybrid ab initio-machine learning methods</i>
       <p> Acta Materialia, 2023: https://doi.org/10.1016/j.actamat.2023.118734</p>
-      <p> ArXiv preprint: https://arxiv.org/abs/2111.11262</p>
-      <p>Project funded by ANR JCJC MeMoPas: https://anr.fr/Project-ANR-19-CE46-0006</p>
-      <p>Team: Petr Grigorev (https://pgrigorev.github.io) and TD Swinburne (PI, https://tomswinburne.github.io), CNRS and CINaM Marseille</p>
+      
