@@ -1,27 +1,30 @@
 ## MARSEILLE MATERIALS MODELLING (Swinburne Group)
 
-Simulation codes of Swinburne Group, CINaM UMR7325, Aix-Marseille University
+**Simulation codes of Swinburne Group, CINaM UMR7325, Aix-Marseille University**
 
-Funding (2019-2022): 
-ANR JCJC MeMoPas https://anr.fr/Project-ANR-19-CE46-0006
+Funding : 
+**2019-2022: ANR JCJC MeMoPas https://anr.fr/Project-ANR-19-CE46-0006**
 
-CNRS EMERGENCE@INP ParaDiff
+**2023-2024: CNRS EMERGENCE@INP ParaDiff**
 
+Computational resources from IDRIS, EUROFusion and CEA are also recognized. 
 
 Lead:
-Tom Swinburne https://tomswinburne.github.io
+Tom Swinburne https://tomswinburne.github.io<br>
+*Please see website for full list of publications*
 
-Team Members: 
-Petr Grigorev https://pgrigorev.github.io
-Ivan Maliyov
-Deepti Kannan (now PhD, MIT)
-Arnaud Allera (now PostDoc, CEA)
+Team Members: <br>
+Petr Grigorev https://pgrigorev.github.io<br>
+Ivan Maliyov<br>
 
-Collaborators:
-Danny Perez (Los Alamos)
-David Wales (Cambridge)
-Cosmin Marinica (CEA Saclay)
+Past Members:<br>
+Deepti Kannan (now PhD, MIT)<br>
+Arnaud Allera (now PostDoc, CEA)<br>
 
+Collaborators:<br>
+Danny Perez (Los Alamos)<br>
+David Wales (Cambridge)<br>
+Cosmin Marinica (CEA Saclay)<br>
 
 -----------
 
@@ -38,6 +41,6 @@ Publication:
 Acta Materialia, 2023 https://doi.org/10.1016/j.actamat.2023.118734
 
 ------
-*Please see links to repositories below for more detail**
+*Please see links to repositories below for more detail*
 
       
