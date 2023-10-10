@@ -19,6 +19,7 @@ Ivan Maliyov<br>
 
 Past Members:<br>
 Deepti Kannan (now PhD, MIT)<br>
+Reza Namakian (now PostDoc, TAMU)<br>
 Arnaud Allera (now PostDoc, CEA)<br>
 
 Collaborators:<br>
