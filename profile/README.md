@@ -17,7 +17,7 @@ Team Members: <br>
 Petr Grigorev https://pgrigorev.github.io<br>
 Ivan Maliyov<br>
 
-Past Members:<br>
+Past Members / Involved Students:<br>
 Deepti Kannan (now PhD, MIT)<br>
 Reza Namakian (now PostDoc, TAMU)<br>
 Arnaud Allera (now PostDoc, CEA)<br>
