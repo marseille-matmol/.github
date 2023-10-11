@@ -3,9 +3,12 @@
 **Simulation codes of Swinburne Group, CINaM UMR7325, Aix-Marseille University**
 
 Funding : 
+
 **2019-2022: ANR JCJC MeMoPas https://anr.fr/Project-ANR-19-CE46-0006**
 
 **2023-2024: CNRS EMERGENCE@INP ParaDiff**
+
+**2024-2028: ANR PRC DAPREDIS** *(see website for open positions)*
 
 Computational resources from IDRIS, EUROFusion and CEA are also recognized. 
 
