@@ -2,6 +2,10 @@
 
 **Simulation codes of Swinburne Group, CINaM UMR7325, Aix-Marseille University**
 
+- **[PAFI](https://github.com/marseille-matmol/pafi)** : Linear-scaling evaluation of anharmonic free energy barriers in LAMMPS
+- **[TAMMBER](https://github.com/marseille-matmol/tammber)** : Massively parallel exploration of energy landscapes
+- **[LML-RETRAIN](https://github.com/marseille-matmol/LML-retrain)** : Hybrid <i>ab initio</i>-machine learning simulations of dislocations
+
 Funding : 
 
 **2024-2028: ANR PRC DAPREDIS** *(see website for open positions, hiring PhD 2024 and postdoc 2025)*
